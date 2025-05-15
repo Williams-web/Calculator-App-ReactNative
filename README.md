@@ -10,8 +10,9 @@ A simple calculator built with React Native.
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/daba850b-aeef-48cf-a624-830230822496" alt="Calculator Screenshot 1" width="200"/>
-<img src="https://github.com/user-attachments/assets/ee4bfe1c-9dc0-4dec-b6cc-ddcff44b08ff" alt="Calculator Screenshot 2" width="200"/>
+<img alt="WhatsApp Image 2025-05-15 at 16 24 39_b500b105" src="https://github.com/user-attachments/assets/daba850b-aeef-48cf-a624-830230822496" width="200"/>
+
+<img alt="WhatsApp Image 2025-05-15 at 16 24 40_6d1a6cec" src="https://github.com/user-attachments/assets/ee4bfe1c-9dc0-4dec-b6cc-ddcff44b08ff" width="200"/>
 
 ## Getting Started
 
