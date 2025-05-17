@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,47 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# React Native Calculator App
+
+A simple calculator built with React Native.
+
+## Features
+
+- Basic arithmetic operations (+, -, ×, ÷, %)
+- Clear and delete functions
+- Responsive, modern UI
+
+## Screenshots
+
+<img alt="WhatsApp Image 2025-05-15 at 16 24 41_00ef4737" src="https://github.com/user-attachments/assets/1914522a-3dcb-46db-8e06-6cd3ae4c2190" width="180"/>
+
+<img alt="WhatsApp Image 2025-05-15 at 16 24 40_7bb27ff6" src="https://github.com/user-attachments/assets/ab1880c5-bdb2-45ad-b7c9-ef7b2a14e5bd" width="180"/>
+
+
+## Getting Started
+
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/your-username/calculator-App.git
+   cd calculator-App
+   ```
+2. Install dependencies:
+   ```sh
+   yarn install
+   # or
+   npm install
+   ```
+3. Run the app:
+   ```sh
+   npx react-native run-android
+   # or
+   npx react-native run-ios
+   # or (if using Expo)
+   npx expo start
+   ```
+
+## License
+
+MIT
+>>>>>>> 7e57fda97c8ee6b5dbce9415695cc95a43ff94b2
