@@ -9,6 +9,8 @@ A simple calculator built with React Native.
 - Responsive, modern UI
 
 ## Screenshots
+![WhatsApp Image 2025-05-15 at 16 24 41_00ef4737](https://github.com/user-attachments/assets/1914522a-3dcb-46db-8e06-6cd3ae4c2190)
+
 
 <img alt="An image of the calulator app" src="![WhatsApp Image 2025-05-15 at 16 24 40_1c80e0ce](https://github.com/user-attachments/assets/df4ca43d-09b0-403a-a7a2-875fe0565346)
 " width="200"/>
